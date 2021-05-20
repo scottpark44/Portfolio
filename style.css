@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    height: 100%;
+}
+
+.main{
+    font-family: 'Zilla Slab', serif;
+    font-size: 30px;
+    margin-top: 38vh;
+}
+
+.main a{
+    font-family: 'Zilla Slab', serif;
+    font-size: 15px;
+    display: block;
+}
