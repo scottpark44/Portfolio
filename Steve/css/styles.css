@@ -32,7 +32,7 @@ main{
 /* Parallax */
 .parallax {
   /* The image used */
-  background-image: url("/Steve Website/Steve_s Website/images/server_image.jpg");
+  background-image: url("/Steve/images/server_image.jpg");
   /* filter: grayscale(70%); */
 
   /* Set a specific height */
