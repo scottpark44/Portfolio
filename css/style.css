@@ -9,12 +9,43 @@ body{
     margin-top: 38vh;
 }
 
+
 .main a{
     font-family: 'Zilla Slab', serif;
+    font-size: 17px;
+}
+
+.main p{
     font-size: 15px;
+  }
+  
+
+.websites{
+    margin: 0 0 0 0;
+}
+
+.websites a{
     display: block;
 }
 
-.main div{
-    margin: 0 0 0 0;
+.contact{
+    margin-top: 3vh;
+    font-size: 20px;
+}
+
+div h6{
+    margin: 0 0 10px 0;
+}
+
+.intro{
+    margin: 5% 0 2% 0;
+}
+
+.github a{
+    margin-bottom: 0;
+}
+
+.github p{
+    margin-top: 0;
+    display: inline-flexbox;
 }
